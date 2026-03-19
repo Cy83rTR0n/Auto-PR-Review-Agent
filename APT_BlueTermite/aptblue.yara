@@ -115,7 +115,7 @@ rule Emdivi_Gen4
  {
 
     meta:
-        description = "Detects Emdivi Malware"
+        description = "Detects Emdivi Malware C2 connections"
         author = "Florian Roth @Cyber0ps"s
         reference = "https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/"
         date = "2015-08-20"
